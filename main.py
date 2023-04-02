@@ -48,7 +48,7 @@ def main():
 
         elif sys.argv[1] == "--help" or sys.argv[1] == "-h":
             print("""
-            Trabalho Prático Banco de Dados - Parte 1 ( GITHUB_LINK )
+            Trabalho Prático Banco de Dados - Parte 1 ( https://github.com/0xdferraz/API-Web-Banco-de-Dados )
             Implementação de Banco de Dados de Usuários, contendo CPF como chave primária, Nome e Data de Nascimento, e suas requisições POST e GET. 
             
             Uso (POST): python main.py --post ou -p <cpf> <nome> <data de nascimento>
