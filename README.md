@@ -16,7 +16,7 @@ Para utilizar a API Web, siga os seguintes passos:
     
     `python banco_de_dados.py` 
     
-    Isso irá iniciar o servidor na porta 5000. Você pode acessar a API através do endereço `http://localhost:5000`.
+    Isso irá iniciar o servidor na porta 5000 (`http://localhost:5000`).
     
 4.  Utilize o Script `main.py` para fazer as requisições POST e GET
 
