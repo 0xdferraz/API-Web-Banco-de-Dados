@@ -9,7 +9,6 @@ Para utilizar a API Web, siga os seguintes passos:
 1.  Clone este repositório em sua máquina.
     
 2.  Instale as dependências necessárias utilizando o arquivo `requirements.txt`. Você pode fazer isso utilizando o seguinte comando:
-
 ***OBS.:** Recomenda-se criar um [ambiente virtual do Python](https://docs.python.org/3/tutorial/venv.html) para não haver conflitos de dependências de outros projetos.*
     
     `pip install -r requirements.txt` 
